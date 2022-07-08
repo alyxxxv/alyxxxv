@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Name is Aliyya. Interest in Energy :zap:, Data, and Machine Learning. 
+
+:dart: want to be a Data Analyst, Data Science, and Business Inteligence
+
+📫 How to reach me: Linkedin or Email (aliyyadhiya@gmail.com) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardzefan&theme=dark&background=000000)](https://git.io/streak-stats)
