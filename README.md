@@ -21,4 +21,4 @@ My Name is Aliyya. Interest in Energy :zap:, Data, and Machine Learning.
 
 📫 How to reach me: Linkedin or Email (aliyyadhiya@gmail.com) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardzefan&theme=dark&background=000000)](https://git.io/streak-stats)
+
