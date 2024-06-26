@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 My Name is Aliyya. Interest in Energy :zap:, Data, and Machine Learning. 
 
-:dart: want to be a Data Analyst, Data Science, and Business Inteligence
-
 📫 How to reach me: Linkedin or Email (aliyyadhiya@gmail.com) 
 
 
